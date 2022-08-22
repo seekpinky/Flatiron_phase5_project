@@ -3,5 +3,5 @@
 # Gun-Image-Classification
 
 <p align="center">
-  <img src = "https://www.rd.com/wp-content/uploads/2021/04/GettyImages-861879906-MLedit-1.jpg" width="500" height="320">
+  <img src = "https://imageio.forbes.com/blogs-images/ronshevlin/files/2019/02/carloan.jpg?format=jpg&width=960 width="500" height="320">
 </p> 
