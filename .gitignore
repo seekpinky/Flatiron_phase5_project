@@ -102,6 +102,10 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# Ignore pickles
+*.pkl
+**/*.pkl
+
 # Environments
 .env
 .venv
